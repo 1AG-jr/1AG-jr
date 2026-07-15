@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @1AG-jr
-- 👀 I’m interested in learning just about everything
-- 🌱 I’m currently learning .java, python and oops concepts
+ Hi, I’m @1AG-jr
+ I’m interested in learning just about everything
+ I’m currently learning .java, python,sql and oops concepts
 
 
 <!---
